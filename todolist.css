@@ -1,0 +1,75 @@
+body{
+    font-family: "poppins",sans-serif;
+    background-image: url("https://image.shutterstock.com/image-illustration/office-supplies-background-google-slides-600w-1727828644.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 50%;
+    background-position: center;
+    background-size: cover;
+    
+    }
+    
+    .container{
+    padding: 10px;
+    border: 1px solid #BCB9B8;
+    width: 400px;
+    height: 400px;
+    margin-top: 150px;
+    margin-left: 500px;
+    background-color:black;
+    border-radius: 12px;
+    border-color:gray;
+    }
+    .container h1
+    {
+        margin-top: 50px;
+        margin-left: 100px;
+        color:white;
+    }
+    
+    .container .input
+    {
+        margin-top: 20px;
+        padding-left: 10px;
+        margin-left: 80px;
+        height: 20px;
+        border-radius: 7px;
+    }
+    .container .btn {
+    width: 60px;
+    height: 30px;
+    border-radius: 6px;
+    margin-left: 15px;
+    background-color: purple;
+    }
+    .container ul{
+    list-style: none;
+    padding: 0px;
+    
+    }
+    .container li{
+    color:brown;
+    margin-left: 25px;
+    margin-top: 7px;
+    border-radius: 5px;
+    border-style: solid;
+    padding:5px;
+    background-color: greenyellow;
+
+    }
+    .container li a{
+    float: right;
+    color: #000;
+    text-decoration: none;
+    }
+    .container #error{
+    color: red;
+    font-size: 14px;
+    }
+    hr
+    {
+        width: 300px;
+        border: 2px solid red;
+        margin-top: 0px;
+    }
+    
